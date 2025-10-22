@@ -1,0 +1,3 @@
+Led pant, 350.0, 0, Monitor
+Resident evil, 69.0, 2, Violencia, Epic Games
+Play station, 1550.0, 1, Rus serv, Ps2

@@ -1,0 +1,7 @@
+ID: V1, Cliente: 56757 - Andrea, Empleado: 3434321 - Pepa, Productos: [Led pant x3, Resident evil x2, Play station x1], Total: $2738.0
+ID: V1, Cliente: 56757 - Andrea, Empleado: 3434321 - Pepa, Productos: [Led pant x4, Resident evil x6, Play station x3], Total: $6464.0
+ID: V1, Cliente: 56757 - Andrea, Empleado: 3434321 - Pepa, Productos: [Led pant x4, Resident evil x5], Total: $1745.0
+ID: V2, Cliente: 56757 - Andrea, Empleado: 3434321 - Pepa, Productos: [Play station x3], Total: $4650.0
+ID: V2, Cliente: 56757 - Andrea, Empleado: 3434321 - Pepa, Productos: [Led pant x2, Resident evil x3], Total: $907.0
+ID: V1, Cliente: 56757 - Andrea, Empleado: 3434321 - Pepa, Productos: [Led pant x2, Resident evil x3, Resident evil x2], Total: $1045.0
+ID: V1, Cliente: 433454 - Paulo, Empleado: 43434 - Pepe, Productos: [Led pant x2, Led pant x1, Play station x3], Total: $5700.0
